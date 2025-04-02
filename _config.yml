@@ -11,18 +11,17 @@ repository: "tinazhangzh/tinazhangzh.github.io"
 
 # Site Author
 author:
-  avatar: "profile.png"  # 确保你有上传图片到 /images/profile.png
+  avatar: "IMG_7961_1000.jpg" 
   name: "Zihan (Tina) Zhang"
-  bio: "Graduate student in Statistics at Columbia University. Passionate about causal inference, health data, and the social impact of data science."
+  bio: "Graduate student in Statistics at Columbia University. Interested in causal inference, health data, quantitative methods, and the social impact of data science."
   location: "New York, NY"
   employer: "Columbia University"
-  email: "yourname@columbia.edu"  # ✅ 修改为你的邮箱
-
+  email: "zz3213@columbia.edu" 
   # Academic profiles
-  googlescholar: "https://scholar.google.com/citations?user=YOUR_ID"  # ✅ 换成你的 ID
+  googlescholar: "https://scholar.google.com/citations?user=YOUR_ID" 
   orcid: "https://orcid.org/0000-0000-0000-0000"  # 可选
   github: "tinazhangzh"
-  linkedin: "your-linkedin-id"  # ✅ 如有可填
+  linkedin: "your-linkedin-id"  
 
 # Publication Categories
 publication_category:
