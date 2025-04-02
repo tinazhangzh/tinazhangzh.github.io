@@ -9,6 +9,20 @@ url: "https://tinazhangzh.github.io"
 baseurl: ""
 repository: "tinazhangzh/tinazhangzh.github.io"
 
+nav:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "Experience"
+    url: /experience/
+  - title: "Teaching"
+    url: /teaching/
+
 # Site Author
 author:
   avatar: "IMG_7961_1000.jpg" 
