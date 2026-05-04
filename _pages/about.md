@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Incoming Ph.D. Student in Statistics, The Ohio State University
 
