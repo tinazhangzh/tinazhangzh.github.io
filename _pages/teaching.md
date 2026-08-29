@@ -9,13 +9,13 @@ nav_order: 6
 
 ## The Ohio State University
 
+###Fall 2026
+
 **Teaching Assistant**, Department of Statistics  
-Fall 2026
 - **STAT 2480 — Statistics for the Life Sciences**
 - **STAT 3450 — Basic Statistics for Engineers**
 
 **Tutor**, Department of Statistics  
-Fall 2026
 - **STAT 1350, 3410, 3450, 3470, 4201, 4202, 4301, and 4302**
 
 ## Columbia University
