@@ -20,17 +20,24 @@ nav_order: 6
 
 ## Columbia University
 
+### Fall 2025
+
 **Teaching Assistant**, Department of Statistics  
-Fall 2025
 - **GR5245 — Python for Deep Learning**
-Summer 2025
+
+### Summer 2025
+
+**Teaching Assistant**, Department of Statistics  
 - **R Bootcamp**
 
 ## UNC Chapel Hill
 
+### Spring 2024
+
 **Grader**, Department of Statistics & Operations Research
-Spring 2024
 - **STOR435 — Introduction to Probability**
+
+### Spring 2023
+
 **Undergraduate Learning Assistant**, Department of Mathematics
-Spring 2023
 - **MATH347 — Linear Algebra**
