@@ -25,7 +25,7 @@ latest_posts:
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 Hi, welcome to my website!
+👋 <b>Hi, welcome to my website!<\b>
 
 I am a first-year Ph.D. student in Statistics at The Ohio State University. Before joining OSU, I completed my M.A. in Statistics at Columbia University and received my B.S. degrees in Statistics and Mathematics from the University of North Carolina at Chapel Hill.
 
