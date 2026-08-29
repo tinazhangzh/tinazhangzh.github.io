@@ -390,14 +390,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-presented-my-work-causal-impact-of-diabetes-on-cognitive-decline-evidence-under-positivity-violations-at-the-2025-deming-conference-on-applied-statistics-and-received-the-deming-poster-award",
+            },},{id: "news-i-presented-my-work-causal-impact-of-diabetes-on-cognitive-decline-evidence-under-positivity-violations-at-the-2025-deming-conference-on-applied-statistics-and-received-the-deming-poster-award",
           title: 'I presented my work, “Causal Impact of Diabetes on Cognitive Decline: Evidence under...',
           description: "",
           section: "News",},{id: "news-our-paper-evaluating-gender-wage-inequality-in-academia-using-causal-inference-methods-for-observational-data-advised-by-prof-jan-hannig-was-accepted-for-publication-in-sankhyā-b",
           title: 'Our paper “Evaluating Gender Wage Inequality in Academia using Causal Inference Methods for...',
+          description: "",
+          section: "News",},{id: "news-excited-to-begin-a-new-chapter-as-a-ph-d-student-in-statistics-at-the-ohio-state-university",
+          title: 'Excited to begin a new chapter as a Ph.D. student in Statistics at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
