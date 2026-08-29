@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Ph.D. Student in Statistics, The Ohio State University
+subtitle: First-year Ph.D. Student in Statistics, The Ohio State University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Cockins Hall, Columbus, OH</p>
+    <p>320 Cockins Hall, Columbus, OH</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming Ph.D. student in Statistics at The Ohio State University. Before joining OSU, I completed my M.A. in Statistics at Columbia University and received my B.S. degrees in Statistics and Mathematics from the University of North Carolina at Chapel Hill.
+I am a first-year Ph.D. student in Statistics at The Ohio State University. Before joining OSU, I completed my M.A. in Statistics at Columbia University and received my B.S. degrees in Statistics and Mathematics from the University of North Carolina at Chapel Hill.
 
 My research lies at the intersection of causal inference and quantitative methodology, with applications to health and social inequality. I am particularly interested in settings where data are observational, incomplete, or collected from multiple sources, and where standard identification assumptions are challenged in practice.
 
