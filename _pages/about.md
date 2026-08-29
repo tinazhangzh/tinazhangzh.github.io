@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: First-year Ph.D. Student in Statistics, The Ohio State University
 
