@@ -390,16 +390,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-presented-my-work-causal-impact-of-diabetes-on-cognitive-decline-evidence-under-positivity-violations-at-the-2025-deming-conference-on-applied-statistics-and-received-the-deming-poster-award",
+          title: 'I presented my work, “Causal Impact of Diabetes on Cognitive Decline: Evidence under...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
