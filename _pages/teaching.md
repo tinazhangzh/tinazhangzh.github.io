@@ -9,7 +9,7 @@ nav_order: 6
 
 ## The Ohio State University
 
-###Fall 2026
+### Fall 2026
 
 **Teaching Assistant**, Department of Statistics  
 - **STAT 2480 — Statistics for the Life Sciences**
