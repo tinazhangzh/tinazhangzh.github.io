@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-08-25
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Excited to begin a new chapter as a Ph.D. student in <a href="https://stat.osu.edu/" target="_blank">Statistics at The Ohio State University</a>!
