@@ -7,13 +7,13 @@ first_name: Zihan
 # middle_name: R.
 last_name: Zhang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach me at <a href="mailto:zhang.17479@osu.edu">zhang.17479@osu.edu</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website of Zihan Zhang, incoming Ph.D. student in Statistics at The Ohio State University.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Personal academic website of Zihan Zhang, first-year Ph.D. student in Statistics at The Ohio State University.
+#footer_text: >
+  #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: causal inference, applied statistics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
