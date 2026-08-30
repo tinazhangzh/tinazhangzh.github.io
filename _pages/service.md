@@ -6,14 +6,6 @@ nav: true
 nav_order: 6
 ---
 
----
-layout: page
-permalink: /service/
-title: Service
-nav: true
-nav_order: 6
----
-
 <table style="width:100%; border-collapse: collapse;">
   <tbody>
 
