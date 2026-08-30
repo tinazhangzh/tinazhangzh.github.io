@@ -87,7 +87,7 @@ nav_order: 5
         2023 Spring
       </td>
       <td style="vertical-align:top; padding:10px 12px;">
-        Undergraduate Learning Assistant for <b>Linear Algebra</b>.
+        Undergraduate Learning Assistant for <b>MATH 347 — Linear Algebra</b>.
       </td>
       <td style="vertical-align:top; padding:10px 0 10px 12px;">
         UNC Chapel Hill
