@@ -44,12 +44,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-begin-a-new-chapter-as-a-ph-d-student-in-statistics-at-the-ohio-state-university",
           title: '🎬 Excited to begin a new chapter as a Ph.D. student in Statistics...',
           description: "",
-          section: "News",},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
