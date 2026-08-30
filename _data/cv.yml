@@ -119,7 +119,7 @@ cv:
           - Applied regularization and sampling methods and evaluated predictive performance using multiple metrics.
           - Achieved 93% classification accuracy.
 
-    Projects:
+    Selected Projects:
       - name: Simulation Study of Optimal Matching Designs for Randomized Experiments
         summary: Simulation study comparing unmatched randomization, greedy matching, and optimal nonbipartite matching.
         highlights:
