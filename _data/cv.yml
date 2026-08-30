@@ -3,117 +3,106 @@ cv:
   email: zhang.17479@osu.edu
   location: Columbus, OH
 
-  address:
-    street: 1958 Neil Ave
-    city: Columbus
-    region: Ohio
-    postalCode: OH 43210
-    countryCode: US
-
   sections:
     Education:
       - institution: The Ohio State University
-        location: Columbus, OH
         area: Statistics
-        studyType: Ph.D.
+        degree: Ph.D.
+        location: Columbus, OH
         start_date: 2026-08
-        end_date: Present
+        end_date: present
 
       - institution: Columbia University
-        location: New York, NY
         area: Statistics
-        studyType: M.A.
+        degree: M.A.
+        location: New York, NY
         start_date: 2024-09
         end_date: 2025-12
 
       - institution: University of North Carolina at Chapel Hill
-        location: Chapel Hill, NC
         area: Statistics and Analytics; Mathematics
-        studyType: B.S.; B.A.
+        degree: B.S.; B.A.
+        location: Chapel Hill, NC
         start_date: 2021-08
         end_date: 2024-05
         highlights:
-          - "Graduated with Distinction"
-          - "Dean's List"
+          - Graduated with Distinction
+          - Dean's List
 
-    Selected Publications:
-      - title: Evaluating Gender Wage Inequality in Academia using Causal Inference Methods for Observational Data
-        authors:
-          - Zihan Zhang
-          - Jan Hannig
-        publisher: Sankhya B
-        releaseDate: 2026
-        url: https://link.springer.com/article/10.1007/s13571-026-00412-3
-
-    Research:
-      - institution: Columbia University
+    Research Experience:
+      - company: Columbia University
         position: Independent Researcher
         location: New York, NY
         start_date: 2025-05
         end_date: 2026-02
-        summary: "Causal Impact of Diabetes on Cognitive Decline"
+        summary: Causal Impact of Diabetes on Cognitive Decline
         highlights:
-          - "Supervised by Prof. Bryan Keller."
-          - "Studied longitudinal causal effects of diabetes on cognition using marginal structural models, IPTW, overlap weighting, and covariate balancing propensity scores."
-          - "Presented at the 2025 Deming Conference on Applied Statistics and received the Deming Poster Award."
+          - Supervised by Prof. Bryan Keller.
+          - Studied longitudinal causal effects of diabetes on cognition using marginal structural models, IPTW, overlap weighting, and covariate balancing propensity scores.
+          - Presented at the 2025 Deming Conference on Applied Statistics and received the Deming Poster Award.
 
-      - institution: University of North Carolina at Chapel Hill
+      - company: University of North Carolina at Chapel Hill
         position: Independent Researcher
         location: Chapel Hill, NC
         start_date: 2022-08
         end_date: 2025-05
-        summary: "How Gender Affects Professors' Compensation"
+        summary: How Gender Affects Professors' Compensation
         highlights:
-          - "Supervised by Prof. Jan Hannig."
-          - "Applied propensity score matching, regression adjustment, and causal forests to study gender wage inequality in academia."
-          - "Resulting work was accepted for publication in Sankhya B."
+          - Supervised by Prof. Jan Hannig.
+          - Applied propensity score matching, regression adjustment, and causal forests to study gender wage inequality in academia.
+          - Resulting work was accepted for publication in Sankhya B.
 
-      - institution: University of North Carolina at Chapel Hill
+      - company: University of North Carolina at Chapel Hill
         position: Independent Researcher
         location: Chapel Hill, NC
         start_date: 2023-08
         end_date: 2024-05
-        summary: "Preferential Attachment in Citation Networks"
+        summary: Preferential Attachment in Citation Networks
         highlights:
-          - "Supervised by Prof. Xiangying (Zoe) Huang."
-          - "Developed mathematical and network models for citation dynamics under preferential attachment."
-          - "Completed and defended an Honors Thesis."
+          - Supervised by Prof. Xiangying (Zoe) Huang.
+          - Developed mathematical and network models for citation dynamics under preferential attachment.
+          - Completed and defended an Honors Thesis.
 
-      - institution: Irving Institute for Cancer Dynamics, Columbia University
+      - company: Irving Institute for Cancer Dynamics, Columbia University
         position: Research Assistant
         location: New York, NY
         start_date: 2025-01
         end_date: 2025-12
         highlights:
-          - "Research Assistant to Dr. Khanh N. Dinh."
-          - "Developed simulation and optimal-transport methods for comparing chromosome instability profiles."
+          - Research Assistant to Dr. Khanh N. Dinh.
+          - Developed simulation and optimal-transport methods for comparing chromosome instability profiles.
 
-      - institution: Teachers College, Columbia University
+      - company: Teachers College, Columbia University
         position: Research Assistant
         location: New York, NY
         start_date: 2025-01
         end_date: 2025-12
         highlights:
-          - "Research Assistant to Prof. Bryan Keller."
-          - "Worked on causal inference methods and longitudinal education data."
+          - Research Assistant to Prof. Bryan Keller.
+          - Worked on causal inference methods and longitudinal education data.
 
-      - institution: Department of Biostatistics, Columbia University
+      - company: Department of Biostatistics, Columbia University
         position: Research Assistant
         location: New York, NY
         start_date: 2024-09
         end_date: 2024-12
         highlights:
-          - "Research Assistant to Prof. Yuan Zhang and Prof. Tian Gu."
-          - "Processed and harmonized large-scale longitudinal cognitive aging datasets."
+          - Research Assistant to Prof. Yuan Zhang and Prof. Tian Gu.
+          - Processed and harmonized large-scale longitudinal cognitive aging datasets.
 
-      - institution: Department of Data and Systems Engineering, University of Hong Kong
+      - company: Department of Data and Systems Engineering, University of Hong Kong
         position: Research Assistant
         location: Hong Kong
         start_date: 2023-02
         end_date: 2023-08
         highlights:
-          - "Research Assistant to Prof. Man-Chung Yue."
-          - "Studied causal inference, high-dimensional statistics, and sparse and nonparametric models."
+          - Research Assistant to Prof. Man-Chung Yue.
+          - Studied causal inference, high-dimensional statistics, and sparse and nonparametric models.
+
+    Selected Publications:
+      - name: Evaluating Gender Wage Inequality in Academia using Causal Inference Methods for Observational Data
+        date: 2026
+        summary: Zihan Zhang and Jan Hannig. Sankhya B.
 
     Professional Experience:
       - company: SAS Institute
@@ -122,43 +111,39 @@ cv:
         start_date: 2024-06
         end_date: 2024-08
         highlights:
-          - "Developed convolutional neural network architectures for COVID-19 lung image classification."
-          - "Applied regularization and sampling methods and evaluated predictive performance using multiple metrics."
-          - "Achieved 93% classification accuracy."
+          - Developed convolutional neural network architectures for COVID-19 lung image classification.
+          - Applied regularization and sampling methods and evaluated predictive performance using multiple metrics.
+          - Achieved 93% classification accuracy.
 
     Selected Projects:
       - name: Simulation Study of Optimal Matching Designs for Randomized Experiments
-        summary: "Simulation study comparing unmatched randomization, greedy matching, and optimal nonbipartite matching."
+        date: 2025
+        summary: Simulation study comparing unmatched randomization, greedy matching, and optimal nonbipartite matching.
         highlights:
-          - "Evaluated covariate balance, efficiency, statistical power, bias, variance, and confidence interval coverage."
+          - Evaluated covariate balance, efficiency, statistical power, bias, variance, and confidence interval coverage.
 
     Awards:
-      - title: Deming Poster Award
+      - name: Deming Poster Award
         date: 2025-12
-        awarder: Deming Conference on Applied Statistics
-        summary: "Awarded for the poster Causal Impact of Diabetes on Cognitive Decline: Evidence under Positivity Violations."
+        summary: Awarded at the Deming Conference on Applied Statistics for work on the causal impact of diabetes on cognitive decline.
 
-      - title: Distinction
+      - name: Distinction
         date: 2024
-        awarder: University of North Carolina at Chapel Hill
+        summary: University of North Carolina at Chapel Hill.
 
     Skills:
-      - name: Programming
-        icon: fa-solid fa-code
-        keywords: "R, Python, Julia, MATLAB, SQL, SAS, STATA, SPSS, Mathematica"
+      - label: Programming
+        details: R, Python, Julia, MATLAB, SQL, SAS, STATA, SPSS, Mathematica
 
-      - name: Statistical Methods
-        icon: fa-solid fa-chart-line
-        keywords: "Causal Inference, Statistical Modeling, Machine Learning, Longitudinal Data Analysis, Simulation"
+      - label: Statistical Methods
+        details: Causal Inference, Statistical Modeling, Machine Learning, Longitudinal Data Analysis, Simulation
 
-      - name: Tools
-        icon: fa-solid fa-laptop-code
-        keywords: "LaTeX, Git, VS Code, Jupyter Notebook, HPC"
+      - label: Tools
+        details: LaTeX, Git, VS Code, Jupyter Notebook, HPC
 
     Languages:
-      - name: Mandarin Chinese
-        summary: "Native"
+      - label: Mandarin Chinese
+        details: Native
 
-      - name: English
-        summary: "Advanced"
-      
+      - label: English
+        details: Advanced
