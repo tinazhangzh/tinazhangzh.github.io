@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: First-year Ph.D. Student in Statistics, The Ohio State University
+subtitle: Ph.D. Student in Statistics, The Ohio State University
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>320 Cockins Hall, Columbus, OH</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
