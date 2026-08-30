@@ -1,46 +1,98 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Experience
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-## The Ohio State University
+<table style="width:100%; border-collapse: collapse;">
+  <tbody>
 
-**Teaching Assistant** · Fall 2026  
-Department of Statistics
+    <tr>
+      <td style="width:12%; vertical-align:top; padding:10px 12px 10px 0;">
+        2026 Fall
+      </td>
+      <td style="width:68%; vertical-align:top; padding:10px 12px;">
+        Teaching Assistant for <b>STAT 2480 — Statistics for the Life Sciences</b>.
+      </td>
+      <td style="width:20%; vertical-align:top; padding:10px 0 10px 12px;">
+        The Ohio State University
+      </td>
+    </tr>
 
-- STAT 2480 — Statistics for the Life Sciences
-- STAT 3450 — Basic Statistics for Engineers
+    <tr>
+      <td style="vertical-align:top; padding:10px 12px 10px 0;">
+        2026 Fall
+      </td>
+      <td style="vertical-align:top; padding:10px 12px;">
+        Teaching Assistant for <b>STAT 3450 — Basic Statistics for Engineers</b>.
+      </td>
+      <td style="vertical-align:top; padding:10px 0 10px 12px;">
+        The Ohio State University
+      </td>
+    </tr>
 
-**Tutor** · Fall 2026  
-Department of Statistics
+    <tr>
+      <td style="vertical-align:top; padding:10px 12px 10px 0;">
+        2026 Fall
+      </td>
+      <td style="vertical-align:top; padding:10px 12px;">
+        Tutor for <b>STAT 1350, 3410, 3450, 3470, 4201, 4202, 4301, and 4302</b>.
+      </td>
+      <td style="vertical-align:top; padding:10px 0 10px 12px;">
+        The Ohio State University
+      </td>
+    </tr>
 
-- STAT 1350, 3410, 3450, 3470, 4201, 4202, 4301, and 4302
+    <tr>
+      <td style="vertical-align:top; padding:10px 12px 10px 0;">
+        2025 Fall
+      </td>
+      <td style="vertical-align:top; padding:10px 12px;">
+        Teaching Assistant for <b>GR5245 — Python for Deep Learning</b>.
+      </td>
+      <td style="vertical-align:top; padding:10px 0 10px 12px;">
+        Columbia University
+      </td>
+    </tr>
 
+    <tr>
+      <td style="vertical-align:top; padding:10px 12px 10px 0;">
+        2025 Summer
+      </td>
+      <td style="vertical-align:top; padding:10px 12px;">
+        Teaching Assistant for <b>R Bootcamp</b>.
+      </td>
+      <td style="vertical-align:top; padding:10px 0 10px 12px;">
+        Columbia University
+      </td>
+    </tr>
 
-## Columbia University
+    <tr>
+      <td style="vertical-align:top; padding:10px 12px 10px 0;">
+        2024 Spring
+      </td>
+      <td style="vertical-align:top; padding:10px 12px;">
+        Grader for <b>STOR 435 — Introduction to Probability</b>.
+      </td>
+      <td style="vertical-align:top; padding:10px 0 10px 12px;">
+        UNC Chapel Hill
+      </td>
+    </tr>
 
-**Teaching Assistant** · Fall 2025  
-Department of Statistics
+    <tr>
+      <td style="vertical-align:top; padding:10px 12px 10px 0;">
+        2023 Spring
+      </td>
+      <td style="vertical-align:top; padding:10px 12px;">
+        Undergraduate Learning Assistant for <b>Linear Algebra</b>.
+      </td>
+      <td style="vertical-align:top; padding:10px 0 10px 12px;">
+        UNC Chapel Hill
+      </td>
+    </tr>
 
-- GR5245 — Python for Deep Learning
-
-**Teaching Assistant** · Summer 2025  
-Department of Statistics
-
-- R Bootcamp
-
-
-## UNC Chapel Hill
-
-**Grader** · Spring 2024  
-Department of Statistics & Operations Research
-
-- STOR 435 — Introduction to Probability
-
-**Undergraduate Learning Assistant** · Spring 2023  
-Department of Mathematics
-
-- MATH347 — Linear Algebra
+  </tbody>
+</table>
