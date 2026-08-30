@@ -19,26 +19,12 @@
 
           {% if start_date != '' %}
             {% comment %} Extract year only from dates like "1933-01-01" or just use "1933" as is {% endcomment %}
-            {% assign start_parts = start_date | strip | split: '-' %}
-            {% assign end_parts = end_date | strip | split: '-' %}
-
-            {% if start_parts.size > 1 %}
-              {% assign month_index = start_parts[1] | plus: 0 | minus: 1 %}
-              {% assign months = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
-              {% assign startDate = months[month_index] | append: ' ' | append: start_parts[0] %}
-            {% else %}
-              {% assign startDate = start_date | strip %}
-            {% endif %}
-
-            {% if end_date contains '-' %}
-              {% assign month_index = end_parts[1] | plus: 0 | minus: 1 %}
-              {% assign endDate = months[month_index] | append: ' ' | append: end_parts[0] %}
-            {% elsif end_date != '' %}
-              {% assign endDate = end_date | strip %}
-            {% else %}
+            {% assign startDate = start_date | strip | replace: '-', '.' %}
+            {% if end_date == '' %}
               {% assign endDate = 'Present' %}
+            {% else %}
+              {% assign endDate = end_date | strip | replace: '-', '.' %}
             {% endif %}
-
             {% assign date = startDate | append: ' – ' | append: endDate %}
           {% else %}
             {% assign date = '' %}
