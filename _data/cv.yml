@@ -138,7 +138,7 @@ cv:
       - name: Programming
         level: Advanced
         icon: fa-solid fa-code
-        keywords: "R, Python, Julia, MATLAB, SQL, SAS, STATA, SPSS, Mathematica"
+        keywords: "R, Python, Julia, MATLAB, Tableau, SQL, SPSS, SAS, STATA, Mathematica"
 
       - name: Statistical Methods
         level: Advanced
