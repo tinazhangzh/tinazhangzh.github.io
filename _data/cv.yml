@@ -25,9 +25,10 @@ cv:
           - Graduated with Distinction
           - Dean's List
 
-    Research Experience:
+    Research Experiences:
       - company: Cross-Institutional Research Collaboration
         position: Independent Researcher
+        location: Columbus, OH
         start_date: 2026-03
         end_date: Present
         summary: Differential Analysis in Spatial Transcriptomics
@@ -106,7 +107,7 @@ cv:
         releaseDate: 2026
         url: https://link.springer.com/article/10.1007/s13571-026-00412-3
 
-    Professional Experience:
+    Professional Experiences:
       - company: SAS Institute
         position: Biological Data Science Analyst
         location: Beijing, China
