@@ -40,7 +40,7 @@ ninja.data = [{
         },{id: "news-i-presented-my-work-causal-impact-of-diabetes-on-cognitive-decline-evidence-under-positivity-violations-at-the-2025-deming-conference-on-applied-statistics-and-received-the-deming-poster-award",
           title: 'I presented my work, “Causal Impact of Diabetes on Cognitive Decline: Evidence under...',
           description: "",
-          section: "News",},{id: "news-our-paper-evaluating-gender-wage-inequality-in-academia-using-causal-inference-methods-for-observational-data-advised-by-prof-jan-hannig-was-accepted-for-publication-in-sankhyā-b",
+          section: "News",},{id: "news-our-paper-evaluating-gender-wage-inequality-in-academia-using-causal-inference-methods-for-observational-data-was-accepted-for-publication-in-sankhyā-b",
           title: 'Our paper “Evaluating Gender Wage Inequality in Academia using Causal Inference Methods for...',
           description: "",
           section: "News",},{id: "news-excited-to-begin-a-new-chapter-as-a-ph-d-student-in-statistics-at-the-ohio-state-university",
