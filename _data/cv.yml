@@ -36,7 +36,7 @@ cv:
           - "Graduated with Distinction"
           - "Dean's List"
 
-      Selected Publications:
+    Selected Publications:
       - title: Evaluating Gender Wage Inequality in Academia using Causal Inference Methods for Observational Data
         authors:
           - Zihan Zhang
@@ -44,8 +44,8 @@ cv:
         publisher: Sankhya B
         releaseDate: 2026
         url: https://link.springer.com/article/10.1007/s13571-026-00412-3
-        
-      Research:
+
+    Research:
       - institution: Columbia University
         position: Independent Researcher
         location: New York, NY
@@ -114,8 +114,8 @@ cv:
         highlights:
           - "Research Assistant to Prof. Man-Chung Yue."
           - "Studied causal inference, high-dimensional statistics, and sparse and nonparametric models."
-        
-      Professional Experience:
+
+    Professional Experience:
       - company: SAS Institute
         position: Biological Data Science Analyst
         location: Beijing, China
@@ -126,13 +126,13 @@ cv:
           - "Applied regularization and sampling methods and evaluated predictive performance using multiple metrics."
           - "Achieved 93% classification accuracy."
 
-      Selected Projects:
+    Selected Projects:
       - name: Simulation Study of Optimal Matching Designs for Randomized Experiments
         summary: "Simulation study comparing unmatched randomization, greedy matching, and optimal nonbipartite matching."
         highlights:
           - "Evaluated covariate balance, efficiency, statistical power, bias, variance, and confidence interval coverage."
 
-      Awards:
+    Awards:
       - title: Deming Poster Award
         date: 2025-12
         awarder: Deming Conference on Applied Statistics
@@ -142,7 +142,7 @@ cv:
         date: 2024
         awarder: University of North Carolina at Chapel Hill
 
-      Skills:
+    Skills:
       - name: Programming
         icon: fa-solid fa-code
         keywords: "R, Python, Julia, MATLAB, SQL, SAS, STATA, SPSS, Mathematica"
@@ -155,9 +155,10 @@ cv:
         icon: fa-solid fa-laptop-code
         keywords: "LaTeX, Git, VS Code, Jupyter Notebook, HPC"
 
-      Languages:
+    Languages:
       - name: Mandarin Chinese
         summary: "Native"
 
       - name: English
         summary: "Advanced"
+      
