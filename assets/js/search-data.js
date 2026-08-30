@@ -44,12 +44,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-begin-a-new-chapter-as-a-ph-d-student-in-statistics-at-the-ohio-state-university",
           title: '🎬 Excited to begin a new chapter as a Ph.D. student in Statistics...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
