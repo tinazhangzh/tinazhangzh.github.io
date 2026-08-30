@@ -12,14 +12,14 @@ cv:
 
   sections:
     Education:
-    - institution: The Ohio State University
+      - institution: The Ohio State University
         location: Columbus, OH
         area: Statistics
         studyType: Ph.D.
         start_date: 2026-08
         end_date: Present
 
-    - institution: Columbia University
+      - institution: Columbia University
         location: New York, NY
         area: Statistics
         studyType: M.A.
