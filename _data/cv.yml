@@ -26,6 +26,15 @@ cv:
           - Dean's List
 
     Research Experience:
+      - company: Cross-Institutional Research Collaboration
+        position: Independent Researcher
+        start_date: 2026-03
+        end_date: Present
+        summary: Differential Analysis in Spatial Transcriptomics
+        highlights:
+          - Conduct a comprehensive review of classical and spatially aware differential analysis methods for spatial transcriptomics.
+          - Develop simulation-based benchmarks to evaluate differential expression methods under varying signal strengths, proportions of differentially expressed genes, and spatial dependence structures.
+
       - company: Columbia University
         position: Independent Researcher
         location: New York, NY
@@ -33,7 +42,6 @@ cv:
         end_date: 2026-02
         summary: Causal Impact of Diabetes on Cognitive Decline
         highlights:
-          - Supervised by Prof. Bryan Keller.
           - Studied longitudinal causal effects of diabetes on cognition using marginal structural models, IPTW, overlap weighting, and covariate balancing propensity scores.
           - Presented at the 2025 Deming Conference on Applied Statistics and received the Deming Poster Award.
 
@@ -44,9 +52,8 @@ cv:
         end_date: 2025-05
         summary: How Gender Affects Professors' Compensation
         highlights:
-          - Supervised by Prof. Jan Hannig.
           - Applied propensity score matching, regression adjustment, and causal forests to study gender wage inequality in academia.
-          - Resulting work was accepted for publication in Sankhya B.
+          - Resulting work was accepted for publication in Sankhyā B.
 
       - company: University of North Carolina at Chapel Hill
         position: Independent Researcher
@@ -55,7 +62,6 @@ cv:
         end_date: 2024-05
         summary: Preferential Attachment in Citation Networks
         highlights:
-          - Supervised by Prof. Xiangying (Zoe) Huang.
           - Developed mathematical and network models for citation dynamics under preferential attachment.
           - Completed and defended an Honors Thesis.
 
@@ -65,7 +71,6 @@ cv:
         start_date: 2025-01
         end_date: 2025-12
         highlights:
-          - Research Assistant to Dr. Khanh N. Dinh.
           - Developed simulation and optimal-transport methods for comparing chromosome instability profiles.
 
       - company: Teachers College, Columbia University
@@ -74,7 +79,6 @@ cv:
         start_date: 2025-01
         end_date: 2025-12
         highlights:
-          - Research Assistant to Prof. Bryan Keller.
           - Worked on causal inference methods and longitudinal education data.
 
       - company: Department of Biostatistics, Columbia University
@@ -83,7 +87,6 @@ cv:
         start_date: 2024-09
         end_date: 2024-12
         highlights:
-          - Research Assistant to Prof. Yuan Zhang and Prof. Tian Gu.
           - Processed and harmonized large-scale longitudinal cognitive aging datasets.
 
       - company: Department of Data and Systems Engineering, University of Hong Kong
@@ -92,7 +95,6 @@ cv:
         start_date: 2023-02
         end_date: 2023-08
         highlights:
-          - Research Assistant to Prof. Man-Chung Yue.
           - Studied causal inference, high-dimensional statistics, and sparse and nonparametric models.
 
     Publications:
@@ -100,7 +102,7 @@ cv:
         authors:
           - Zihan Zhang
           - Jan Hannig
-        publisher: Sankhya B
+        publisher: Sankhyā B
         releaseDate: 2026
         url: https://link.springer.com/article/10.1007/s13571-026-00412-3
 
