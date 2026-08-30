@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zihan Zhang # the website title (if blank, full name will be used instead)
+title: Zihan Zhang | Statistics PhD Student at Ohio State # the website title (if blank, full name will be used instead)
 first_name: Zihan
 # middle_name: R.
 last_name: Zhang
 contact_note: >
   I'm always happy to connect and exchange ideas. Feel free to reach out at <a href="mailto:zhang.17479@osu.edu">zhang.17479@osu.edu</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website of Zihan Zhang, Ph.D. student in Statistics at The Ohio State University.
+  Zihan Zhang is a Ph.D. student in Statistics at The Ohio State University, with research interests in causal inference, statistical methodology, and applications in health and social science.
 #footer_text: >
   #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
