@@ -6,23 +6,23 @@ cv:
   sections:
     Education:
       - institution: The Ohio State University
-        area: Statistics
-        degree: Ph.D.
         location: Columbus, OH
+        area: Statistics
+        studyType: Ph.D.
         start_date: 2026-08
-        end_date: present
+        end_date: Present
 
       - institution: Columbia University
-        area: Statistics
-        degree: M.A.
         location: New York, NY
+        area: Statistics
+        studyType: M.A.
         start_date: 2024-09
         end_date: 2025-12
 
       - institution: University of North Carolina at Chapel Hill
-        area: Statistics and Analytics; Mathematics
-        degree: B.S.; B.A.
         location: Chapel Hill, NC
+        area: Statistics and Analytics; Mathematics
+        studyType: B.S.; B.A.
         start_date: 2021-08
         end_date: 2024-05
         highlights:
@@ -99,10 +99,14 @@ cv:
           - Research Assistant to Prof. Man-Chung Yue.
           - Studied causal inference, high-dimensional statistics, and sparse and nonparametric models.
 
-    Selected Publications:
-      - name: Evaluating Gender Wage Inequality in Academia using Causal Inference Methods for Observational Data
-        date: 2026
-        summary: Zihan Zhang and Jan Hannig. Sankhya B.
+    Publications:
+      - title: Evaluating Gender Wage Inequality in Academia using Causal Inference Methods for Observational Data
+        authors:
+          - Zihan Zhang
+          - Jan Hannig
+        publisher: Sankhya B
+        releaseDate: 2026
+        url: https://link.springer.com/article/10.1007/s13571-026-00412-3
 
     Professional Experience:
       - company: SAS Institute
@@ -115,35 +119,44 @@ cv:
           - Applied regularization and sampling methods and evaluated predictive performance using multiple metrics.
           - Achieved 93% classification accuracy.
 
-    Selected Projects:
+    Projects:
       - name: Simulation Study of Optimal Matching Designs for Randomized Experiments
-        date: 2025
         summary: Simulation study comparing unmatched randomization, greedy matching, and optimal nonbipartite matching.
         highlights:
           - Evaluated covariate balance, efficiency, statistical power, bias, variance, and confidence interval coverage.
+        start_date: 2025
+        end_date: 2025
 
     Awards:
-      - name: Deming Poster Award
+      - title: Deming Poster Award
         date: 2025-12
-        summary: Awarded at the Deming Conference on Applied Statistics for work on the causal impact of diabetes on cognitive decline.
+        awarder: Deming Conference on Applied Statistics
+        summary: Awarded for the poster Causal Impact of Diabetes on Cognitive Decline - Evidence under Positivity Violations.
 
-      - name: Distinction
+      - title: Distinction
         date: 2024
-        summary: University of North Carolina at Chapel Hill.
+        awarder: University of North Carolina at Chapel Hill
+        summary: Graduated with Distinction.
 
     Skills:
-      - label: Programming
-        details: R, Python, Julia, MATLAB, SQL, SAS, STATA, SPSS, Mathematica
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "R, Python, Julia, MATLAB, SQL, SAS, STATA, SPSS, Mathematica"
 
-      - label: Statistical Methods
-        details: Causal Inference, Statistical Modeling, Machine Learning, Longitudinal Data Analysis, Simulation
+      - name: Statistical Methods
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "Causal Inference, Statistical Modeling, Machine Learning, Longitudinal Data Analysis, Simulation"
 
-      - label: Tools
-        details: LaTeX, Git, VS Code, Jupyter Notebook, HPC
+      - name: Tools
+        level: Advanced
+        icon: fa-solid fa-laptop-code
+        keywords: "LaTeX, Git, VS Code, Jupyter Notebook, HPC"
 
     Languages:
-      - label: Mandarin Chinese
-        details: Native
+      - name: Mandarin Chinese
+        summary: Native
 
-      - label: English
-        details: Advanced
+      - name: English
+        summary: Advanced
