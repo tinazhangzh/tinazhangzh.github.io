@@ -71,6 +71,8 @@ nav_order: 6
       </td>
       <td></td>
     </tr>
-
+    
+  </tbody>
+</table>
   </tbody>
 </table>
