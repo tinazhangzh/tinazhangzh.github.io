@@ -65,7 +65,15 @@ cv:
         highlights:
           - Developed mathematical and network models for citation dynamics under preferential attachment.
           - Completed and defended an Honors Thesis.
-
+          
+      - company: School of Pharmaceutical Science, Peking University
+        position: Research Assistant
+        location: Beijing, China
+        start_date: 2026-01
+        end_date: 2026-04
+        highlights:
+          - Developed a two-stage framework integrating target trial emulation with proximal causal inference for right-censored survival data, evaluated through simulations and a UK Biobank study.
+          
       - company: Irving Institute for Cancer Dynamics, Columbia University
         position: Research Assistant
         location: New York, NY
@@ -151,7 +159,7 @@ cv:
       - name: Tools
         level: Advanced
         icon: fa-solid fa-laptop-code
-        keywords: "LaTeX, Git, VS Code, Jupyter Notebook, HPC"
+        keywords: "LaTeX, Git, VS Code, Jupyter Notebook, HPC cluster, Git, GitHub"
 
     Languages:
       - name: Mandarin Chinese
